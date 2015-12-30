@@ -1,4 +1,4 @@
-Spring 4.2.1
+Spring MVC 4.2.1
 slf4j
 mybatis
 mysql
